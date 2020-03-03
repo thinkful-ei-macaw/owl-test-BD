@@ -1,0 +1,29 @@
+img {
+  border: solid 2px;
+  border-radius: 10rem;
+  height: 50px;
+  width: 50px;
+  float: left;
+}
+li.User {
+  display: block;
+}
+
+h2 {
+  padding-left: 10px;
+}
+
+p {
+  display: flex;
+  flex-direction: row;
+}
+
+ul{
+  list-style-type: disc;
+}
+
+li.Empty {
+  color: green;
+  content: "\2022";
+}
+

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<List /> renders this UI as expected 1`] = `
+<li
+  className="user"
+>
+  <img
+    alt=""
+    src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+  />
+  <h2>
+    Joe
+  </h2>
+  <p
+    className="status"
+  />
+</li>
+`;
