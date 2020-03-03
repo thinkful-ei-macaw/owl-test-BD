@@ -1,0 +1,28 @@
+.chatbar-avatar {
+  border: solid 2px;
+  border-radius: 10rem;
+  height: 50px;
+  width: 50px;
+  float: left;
+}
+
+.chat-entry {
+  display: flex;
+  color: grey;
+}
+
+.chath2 {
+  font-size: 16px;
+}
+
+.chatp {
+  font-size: 14px;
+}
+
+.message-entry {
+  color: grey;
+}
+
+.message {
+  color: black;
+}
