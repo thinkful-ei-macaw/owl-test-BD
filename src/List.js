@@ -15,7 +15,7 @@ if (props.onStage === true) {
 
 return (
     <li className="User" id={props.id}>
-      <img src={props.avatar} alt=""></img>
+      <img src={props.avatar} alt="" className='chatbar-avatar'></img>
       <h2>{props.name}</h2>
       <p className="Status"><ul><li className="Empty"></li></ul>{status}</p>
     </li>

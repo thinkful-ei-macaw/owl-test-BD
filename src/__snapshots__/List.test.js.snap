@@ -2,17 +2,25 @@
 
 exports[`<List /> renders this UI as expected 1`] = `
 <li
-  className="user"
+  className="User"
 >
   <img
     alt=""
+    className="chatbar-avatar"
     src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
   />
   <h2>
     Joe
   </h2>
   <p
-    className="status"
-  />
+    className="Status"
+  >
+    <ul>
+      <li
+        className="Empty"
+      />
+    </ul>
+    On Stage
+  </p>
 </li>
 `;

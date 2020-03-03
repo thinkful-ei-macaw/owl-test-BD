@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Stage /> renders this UI as expected 1`] = `
+<div
+  className="user"
+>
+  <h2>
+    Joe
+  </h2>
+  <hr />
+  <img
+    alt="magnifying glass"
+    src="https://as2.ftcdn.net/jpg/01/23/80/31/500_F_123803188_7f2vK45t4fJQ1UwBgb7dSEU2Yj6XEkaB.jpg"
+  />
+  <img
+    alt="muted speaker"
+    src="https://assets.dryicons.com/uploads/icon/svg/12209/cc0cdcf8-828c-4c43-8361-3db24f11ada3.svg"
+  />
+  <img
+    alt="user"
+    className="user-avatar"
+    src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+  />
+</div>
+`;
